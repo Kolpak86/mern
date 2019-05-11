@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://kolpak:v5MBwj-x.333LtQ@cluster0-qhkmc.mongodb.net/test?retryWrites=true",
+    "jwtSecret": "sl_myJwtSecret"
+}
